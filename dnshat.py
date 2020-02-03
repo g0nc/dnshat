@@ -39,11 +39,7 @@ def banner():
     print("| $$$$$$$/| $$ \  $$|  $$$$$$/      | $$  | $$| $$  | $$   | $$   ")
     print("|_______/ |__/  \__/ \______/       |__/  |__/|__/  |__/   |__/   ")
     print("\n ----Coded by anhax0r/siemexpert/sup3rm4n\n ----contact goncalv3s2017@gmail.com----")
-                                                                  
-                                                                  
-                                                                  
-
-
+                                                                                                                                                                                                  
 try:
     site = sys.argv[1]
     dns_type = sys.argv[2]
