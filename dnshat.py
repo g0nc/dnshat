@@ -38,7 +38,7 @@ def banner():
     print("| $$  | $$| $$\  $$$ /$$  \ $$      | $$  | $$| $$  | $$   | $$   ")
     print("| $$$$$$$/| $$ \  $$|  $$$$$$/      | $$  | $$| $$  | $$   | $$   ")
     print("|_______/ |__/  \__/ \______/       |__/  |__/|__/  |__/   |__/   ")
-    print("\n ----Coded by anhax0r/siemexpert/sup3rm4n\n ----contact goncalv3s2017@gmail.com----")
+    print("\n ----Coded by anhax0r/g0nc\n ----contact goncalv3s2017@gmail.com----")
                                                                                                                                                                                                   
 try:
     site = sys.argv[1]
